@@ -1,0 +1,6 @@
+framework module DCAnimationKit {
+  umbrella header "DCAnimationKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

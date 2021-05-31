@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Gunja-gwan</key>
+	<string>37.549449,127.073905</string>
+	<key>Gwangaeto-gwan</key>
+	<string>37.550266, 127.073286</string>
+	<key>Yidang-gwan</key>
+	<string>37.550459,127.072874</string>
+	<key>Jingwan Hall</key>
+	<string>37.550861,127.073300</string>
+	<key>Yongdeok-gwan</key>
+	<string>37.551234,127.073402</string>
+	<key>Hongjin Research Center</key>
+	<string>37.551641,127.073202</string>
+	<key>Sejong Elm.School</key>
+	<string>37.552940,127.072778</string>
+	<key>Annex Center</key>
+	<string></string>
+	<key>School Auditorium</key>
+	<string></string>
+	<key>Yeongsil-gwan</key>
+	<string>37.552369,127.073379</string>
+	<key>Chungmu-gwan</key>
+	<string>37.552252,127.073929</string>
+	<key>Yulgok-gwan</key>
+	<string>37.551814,127.073961</string>
+	<key>Dongcheon-gwan(Lib)</key>
+	<string>37.551534,127.074223</string>
+	<key>Ujeong-dang</key>
+	<string>37.551803,127.074728</string>
+	<key>Sejong Museum</key>
+	<string>37.551454,127.075205</string>
+	<key>Dasan-gwan</key>
+	<string>37.552503,127.074186</string>
+	<key>Daeyang Tower</key>
+	<string>37.550881,127.074020</string>
+	<key>Aejiheon Chapel</key>
+	<string>37.550771,127.073897</string>
+	<key>Daeyang AI Center</key>
+	<string>37.551074,127.075750</string>
+	<key>Athletics Field</key>
+	<string></string>
+	<key>Sejong-gwan</key>
+	<string>37.549927,127.074513</string>
+	<key>Student Center</key>
+	<string>37.549558,127.075175</string>
+	<key>Saenal-gwan</key>
+	<string>37.551067,127.075634</string>
+	<key>Sejong Cyber University</key>
+	<string></string>
+	<key>Mozart Hall</key>
+	<string>37.548315,127.074058</string>
+	<key>Daeyang Hall</key>
+	<string>37.548668,127.074490</string>
+	<key>Jiphyeong-gwan</key>
+	<string>37.549103,127.073629</string>
+</dict>
+</plist>

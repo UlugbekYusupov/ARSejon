@@ -1,0 +1,6 @@
+framework module Pods_MapWithAR_MapWithARUITests {
+  umbrella header "Pods-MapWithAR-MapWithARUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

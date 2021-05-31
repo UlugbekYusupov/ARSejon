@@ -1,0 +1,6 @@
+framework module Pods_MapWithARTests {
+  umbrella header "Pods-MapWithARTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
